@@ -1,12 +1,3 @@
-MIT License, below.
-- Everything else (the 3D models in godot/demo/models/, images, documentation, and the palette and
-  symbol data): Creative Commons Attribution 4.0 International (CC BY 4.0), see LICENSE-ASSETS.
-
-How to credit: "Holo Tactical by Choi (github.com/nroc0407)", with a link to the repository where
-practical. Keeping this LICENSE file next to copied code is enough for the code.
-
--------------------------------------------------------------------------------
-
 MIT License
 
 Copyright (c) 2026 Choi (github.com/nroc0407)
