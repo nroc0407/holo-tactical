@@ -13,4 +13,5 @@ game models. Self-contained glTF binaries (`.glb`), flat colours, no external te
 | `torpedo_small.glb` | Small torpedo bomber | about 15 m span |
 | `rocket_fighter.glb` | Rocket fighter | about 12 m span |
 
-They belong to the repository owner. No licence has been granted for use outside this repository.
+Licensed under CC BY 4.0 (see LICENSE-ASSETS at the repository root): use them anywhere, with credit
+to "Holo Tactical by Choi (github.com/nroc0407)".

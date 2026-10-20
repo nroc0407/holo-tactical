@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Licence: MIT for code, CC BY 4.0 for models, images, documentation and data (credit is all that is asked).
+
 ## 0.1.0
 
 - First release, extracted from the Theseus naval game.

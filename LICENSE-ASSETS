@@ -1,0 +1,22 @@
+Assets of Holo Tactical
+Copyright (c) 2026 Choi (github.com/nroc0407)
+
+The following are licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0):
+
+- the 3D models in godot/demo/models/ (from the Theseus project),
+- the images in docs/,
+- the documentation (README.md, SPEC.md, SPEC.ko.md, CHANGELOG.md and the README files in
+  subfolders),
+- the data in godot/addons/holo_tactical/data/ (palette.json, symbols.json).
+
+You may copy, redistribute, remix, transform and build upon them for any purpose, including
+commercially, provided you give appropriate credit, provide a link to the licence, and indicate if
+changes were made. Suggested credit:
+
+    "Holo Tactical" by Choi (github.com/nroc0407), CC BY 4.0
+
+Licence summary: https://creativecommons.org/licenses/by/4.0/
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+The code of this repository is under the MIT License (see LICENSE).

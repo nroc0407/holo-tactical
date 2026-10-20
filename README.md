@@ -108,7 +108,11 @@ are self-contained glTF binaries with flat colours. See `godot/demo/models/READM
 
 ## Licence
 
-No licence has been chosen yet. Ask the repository owner before using or redistributing any part.
+Free to use, change and share in any project, commercial or not, as long as you credit it:
+"Holo Tactical by Choi (github.com/nroc0407)".
+
+- Code: [MIT](LICENSE)
+- Models, images, documentation and data: [CC BY 4.0](LICENSE-ASSETS)
 
 ---
 
@@ -120,3 +124,4 @@ No licence has been chosen yet. Ask the repository owner before using or redistr
 - **게임 연결 방식:** 게임은 '피드' 하나만 구현하면 됩니다. 피드는 접촉 목록, 기준 위치, 궤적, 폭발, 지형선을 넘겨주는 인터페이스입니다.
 - **사용법:** Godot 프로젝트에는 `godot/addons/holo_tactical/` 폴더를 복사해 넣습니다. 다른 엔진은 `SPEC.ko.md`(한국어 사양)와 `reference/python`을 기준으로 옮깁니다.
 - **데모:** `godot --path godot`으로 실행합니다. 테세우스 소형정·소형 항공기 모델을 쓰는 시험가동 씬은 `demo/trial.tscn`입니다.
+- **라이선스:** 출처만 표시하면 상업적 용도를 포함해 자유롭게 쓰고, 고치고, 배포할 수 있습니다. 코드는 MIT, 모델·이미지·문서·데이터는 CC BY 4.0입니다.
