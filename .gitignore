@@ -1,0 +1,7 @@
+# Godot editor cache and local runs
+godot/.godot/
+godot/.runtime/
+# Capture output (docs/preview keeps the chosen images)
+out/
+__pycache__/
+*.pyc

@@ -1,0 +1,20 @@
+; Holo Tactical demo project. Open with Godot 4.7+ (--path pointing at this folder).
+
+config_version=5
+
+[application]
+
+config/name="Holo Tactical Demo"
+run/main_scene="res://demo/holo_demo.tscn"
+config/features=PackedStringArray("4.7", "GL Compatibility")
+
+[display]
+
+window/size/viewport_width=1920
+window/size/viewport_height=1080
+window/stretch/mode="canvas_items"
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"

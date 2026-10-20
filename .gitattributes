@@ -1,0 +1,5 @@
+# Text files with LF line endings in the repository; binary assets untouched.
+* text=auto eol=lf
+*.glb binary
+*.png binary
+*.bin binary

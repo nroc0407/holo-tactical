@@ -1,0 +1,18 @@
+{
+ "_doc": "Colours (linear RGBA, lines are added on top of each other) and the look's numbers. Engine-neutral (SPEC.md 'Look').",
+ "background": [0.008, 0.02, 0.035, 1.0],
+ "own": [0.35, 0.95, 1.0, 1.0],
+ "hostile": [1.0, 0.45, 0.3, 1.0],
+ "threat": [1.0, 0.22, 0.22, 1.0],
+ "closing": [1.0, 0.35, 0.3, 0.9],
+ "opening": [1.0, 0.75, 0.3, 0.85],
+ "friendly_round": [0.6, 1.0, 0.9, 1.0],
+ "shoal": [0.3, 0.55, 1.0, 0.3],
+ "blast": [1.0, 0.85, 0.5, 1.0],
+ "runner": [1.0, 0.5, 0.2, 0.8],
+ "glow": {"near_radius": 0.006, "wide_radius": 0.03, "near_gain": 0.85, "wide_gain": 0.55, "vignette": 0.35},
+ "flicker": {"amount": 0.12, "rate": 21.0},
+ "grid": {"fine": [100.0, 4000.0], "coarse": [1000.0, 16000.0], "fine_alpha": 0.09, "coarse_alpha": 0.16},
+ "predict_seconds": {"plane": 20.0, "missile": 10.0, "runner": 30.0},
+ "wireframe": {"crease": 32.0, "table_crease": 48.0, "glow_reference": 1600.0, "table_glow_reference": 700.0}
+}
