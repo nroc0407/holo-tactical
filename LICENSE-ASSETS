@@ -19,4 +19,5 @@ changes were made. Suggested credit:
 Licence summary: https://creativecommons.org/licenses/by/4.0/
 Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
 
-The code of this repository is under the MIT License (see LICENSE).
+The code of this repository (GDScript, GLSL and Godot shaders, Python) is under the MIT License
+(see LICENSE). Keeping LICENSE next to copied code is enough credit for the code.
